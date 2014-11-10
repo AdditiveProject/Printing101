@@ -1,7 +1,7 @@
 Printing101
 ===========
 
-The curriculum for the initial 3D printing lesson "Printing 101" provided by The Additive Project. The formatted PDF and all associated media for this project can be found at www.theadditiveproject.org/projects/.
+The curriculum for the initial 3D printing lesson "Printing 101" provided by The Additive Project. The formatted PDF and all associated media for this project can be found at www.theadditiveproject.org/projects/. Videos can also be found on YouTube (https://www.youtube.com/playlist?list=PLaO-nszALGbcET3pa31VYlK1gDH2eGWtx).
 
 For more information please visit www.theadditiveproject.org.
 
